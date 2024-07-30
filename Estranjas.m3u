@@ -1,403 +1,177 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PORTUGAL " tvg-logo="https://i.postimg.cc/65VGbXST/Screenshot-20210106-095332-Chrome.jpg" group-title="Portugal",PORTUGAL 
-http://newreality2020.com:25461/primodiogo/16092021/94768
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 " tvg-logo="http://picons1.ddns.net:8080/picon/rtp1.png" group-title="Portugal",RTP 1 
-http://newreality2020.com:25461/primodiogo/16092021/94770
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1  " tvg-logo="http://picons1.ddns.net:8080/picon/rtp1.png" group-title="Portugal",RTP 1  
-http://newreality2020.com:25461/primodiogo/16092021/94771
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1 " tvg-logo="http://picons1.ddns.net:8080/picon/rtp1.png" group-title="Portugal",RTP 1 
-http://newreality2020.com:25461/primodiogo/16092021/94772
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1 FHD" tvg-logo="http://picons1.ddns.net:8080/picon/rtp1.png" group-title="Portugal",RTP 1 FHD
-http://newreality2020.com:25461/primodiogo/16092021/94769
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2 " tvg-logo="http://picons1.ddns.net:8080/picon/rtp2.png" group-title="Portugal",RTP 2 
-http://newreality2020.com:25461/primodiogo/16092021/94774
-#EXTINF:-1 tvg-id="RTP 2" tvg-name=" RTP 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Portugal", RTP 2 
-http://newreality2020.com:25461/primodiogo/16092021/94773
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="https://i.pinimg.com/originals/ab/b1/c5/abb1c5168d3c89e8d51500a92a26d63c.png" group-title="Portugal",RTP 2
-http://newreality2020.com:25461/primodiogo/16092021/94775
-#EXTINF:-1 tvg-id="RTP 3 HD" tvg-name="RTP 3 " tvg-logo="http://picons1.ddns.net:8080/picon/rtp3.png" group-title="Portugal",RTP 3 
-http://newreality2020.com:25461/primodiogo/16092021/94776
-#EXTINF:-1 tvg-id="RTP 3 HD" tvg-name="RTP 3 FHD" tvg-logo="http://picons1.ddns.net:8080/picon/rtp3.png" group-title="Portugal",RTP 3 FHD
-http://newreality2020.com:25461/primodiogo/16092021/94777
-#EXTINF:-1 tvg-id="SIC HD" tvg-name="SIC " tvg-logo="https://i.imgur.com/YAyDniw.png" group-title="Portugal",SIC 
-http://newreality2020.com:25461/primodiogo/16092021/94778
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC  " tvg-logo="http://picons1.ddns.net:8080/picon/sic.png" group-title="Portugal",SIC  
-http://newreality2020.com:25461/primodiogo/16092021/94779
-#EXTINF:-1 tvg-id="SIC HD" tvg-name="SIC " tvg-logo="http://picons1.ddns.net:8080/picon/sic_hd.png" group-title="Portugal",SIC 
-http://newreality2020.com:25461/primodiogo/16092021/94780
-#EXTINF:-1 tvg-id="SIC HD" tvg-name="SIC " tvg-logo="https://i.imgur.com/YAyDniw.png" group-title="Portugal",SIC 
-http://newreality2020.com:25461/primodiogo/16092021/94781
-#EXTINF:-1 tvg-id="TVI HD" tvg-name="TVI " tvg-logo="https://i.imgur.com/I6rdn3C.png" group-title="Portugal",TVI 
-http://newreality2020.com:25461/primodiogo/16092021/94791
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI " tvg-logo="http://picons1.ddns.net:8080/picon/tvi_hd.png" group-title="Portugal",TVI 
-http://newreality2020.com:25461/primodiogo/16092021/94793
-#EXTINF:-1 tvg-id="TVI" tvg-name=" TVI " tvg-logo="http://picons1.ddns.net:8080/picon/tvi_hd.png" group-title="Portugal", TVI 
-http://newreality2020.com:25461/primodiogo/16092021/94794
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI FHD" tvg-logo="http://picons1.ddns.net:8080/picon/tvi_hd.png" group-title="Portugal",TVI FHD
-http://newreality2020.com:25461/primodiogo/16092021/94792
-#EXTINF:-1 tvg-id="TVI Ficcao PT" tvg-name="TVI FICÇAO " tvg-logo="http://picons1.ddns.net:8080/picon/tvi_ficcao.png" group-title="Portugal",TVI FICÇAO 
-http://newreality2020.com:25461/primodiogo/16092021/94797
-#EXTINF:-1 tvg-id="SIC Mulher HD" tvg-name="SIC MULHER " tvg-logo="http://picons1.ddns.net:8080/picon/sic_mulher_hd.png" group-title="Portugal",SIC MULHER 
-http://newreality2020.com:25461/primodiogo/16092021/101137
-#EXTINF:-1 tvg-id="SIC" tvg-name=" SIC NOVELAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Portugal", SIC NOVELAS 
-http://newreality2020.com:25461/primodiogo/16092021/94782
-#EXTINF:-1 tvg-id="SIC Radical HD" tvg-name="SIC RADICAL " tvg-logo="http://picons1.ddns.net:8080/picon/sic_radical_hd.png" group-title="Portugal",SIC RADICAL 
-http://newreality2020.com:25461/primodiogo/16092021/94787
-#EXTINF:-1 tvg-id="SIC Caras HD" tvg-name="SIC CARAS " tvg-logo="http://picons1.ddns.net:8080/picon/sic_caras_hd.png" group-title="Portugal",SIC CARAS 
-http://newreality2020.com:25461/primodiogo/16092021/94788
-#EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER NOS" tvg-logo="https://img.iol.pt/preset/6597d83cd34e65afa2f951be/og/tvi" group-title="Portugal",BIG BROTHER NOS
-http://newreality2020.com:25461/primodiogo/16092021/94795
-#EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER MEO" tvg-logo="https://img.iol.pt/preset/6597d83cd34e65afa2f951be/og/tvi" group-title="Portugal",BIG BROTHER MEO
-http://newreality2020.com:25461/primodiogo/16092021/94796
-#EXTINF:-1 tvg-id="CMTV HD" tvg-name="CMTV " tvg-logo="http://picons1.ddns.net:8080/picon/cm_tv.png" group-title="Portugal",CMTV 
-http://newreality2020.com:25461/primodiogo/16092021/94805
-#EXTINF:-1 tvg-id="CMTV HD" tvg-name="CMTV " tvg-logo="http://picons1.ddns.net:8080/picon/cm_tv.png" group-title="Portugal",CMTV 
-http://newreality2020.com:25461/primodiogo/16092021/94802
-#EXTINF:-1 tvg-id="CMTV HD" tvg-name="CMTV " tvg-logo="http://picons1.ddns.net:8080/picon/cm_tv.png" group-title="Portugal",CMTV 
-http://newreality2020.com:25461/primodiogo/16092021/94803
-#EXTINF:-1 tvg-id="CMTV PT" tvg-name="CMTV " tvg-logo="http://picons1.ddns.net:8080/picon/cm_tv.png" group-title="Portugal",CMTV 
-http://newreality2020.com:25461/primodiogo/16092021/94804
-#EXTINF:-1 tvg-id="CMTV PT" tvg-name="CMTV " tvg-logo="http://picons1.ddns.net:8080/picon/cm_tv.png" group-title="Portugal",CMTV 
-http://newreality2020.com:25461/primodiogo/16092021/94806
-#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="SIC NOTICIAS " tvg-logo="http://picons1.ddns.net:8080/picon/sic_noticias.png" group-title="Portugal",SIC NOTICIAS 
-http://newreality2020.com:25461/primodiogo/16092021/94784
-#EXTINF:-1 tvg-id="SIC Notícias HD" tvg-name=" SIC NOTICIAS " tvg-logo="http://picons1.ddns.net:8080/picon/sic_noticias.png" group-title="Portugal", SIC NOTICIAS 
-http://newreality2020.com:25461/primodiogo/16092021/94785
-#EXTINF:-1 tvg-id="SIC Notícias HD" tvg-name="SIC NOTICIAS " tvg-logo="http://picons1.ddns.net:8080/picon/sic_noticias.png" group-title="Portugal",SIC NOTICIAS 
-http://newreality2020.com:25461/primodiogo/16092021/94783
-#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name=" SIC NOTICIAS FHD" tvg-logo="https://i.imgur.com/LgtARHL.png" group-title="Portugal", SIC NOTICIAS FHD
-http://newreality2020.com:25461/primodiogo/16092021/94786
-#EXTINF:-1 tvg-id="CNN PT" tvg-name="CNN TV " tvg-logo="http://picons1.ddns.net:8080/picon/cnn.png" group-title="Portugal",CNN TV 
-http://newreality2020.com:25461/primodiogo/16092021/94807
-#EXTINF:-1 tvg-id="CNN Portugal HD" tvg-name="CNN " tvg-logo="http://picons1.ddns.net:8080/picon/cnn.png" group-title="Portugal",CNN 
-http://newreality2020.com:25461/primodiogo/16092021/94808
-#EXTINF:-1 tvg-id="RTP Madeira" tvg-name="RTP MADEIRA " tvg-logo="http://picons1.ddns.net:8080/picon/rtpmadeira.png" group-title="Portugal",RTP MADEIRA 
-http://newreality2020.com:25461/primodiogo/16092021/94798
-#EXTINF:-1 tvg-id="RTP Memória" tvg-name="RTP MEMORIA " tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPMemoria_positivo_horiz_RGB.png" group-title="Portugal",RTP MEMORIA 
-http://newreality2020.com:25461/primodiogo/16092021/94799
-#EXTINF:-1 tvg-id="RTP Açores" tvg-name="RTP ACORES " tvg-logo="http://picons1.ddns.net:8080/picon/ares.png" group-title="Portugal",RTP ACORES 
-http://newreality2020.com:25461/primodiogo/16092021/94800
-#EXTINF:-1 tvg-id="" tvg-name="TVI AFRICA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/TVI_%C3%81frica_%282017%E2%80%932020%29.svg/797px-TVI_%C3%81frica_%282017%E2%80%932020%29.svg.png" group-title="Portugal",TVI AFRICA 
-http://newreality2020.com:25461/primodiogo/16092021/94801
-#EXTINF:-1 tvg-id="" tvg-name=" BRASIL COZINHA" tvg-logo="https://moneyinc.com/wp-content/uploads/2016/10/tastemade.png" group-title="Portugal", BRASIL COZINHA
-http://newreality2020.com:25461/primodiogo/16092021/94811
-#EXTINF:-1 tvg-id="Canal 11 HD" tvg-name="CANAL11 FHD" tvg-logo="http://picons1.ddns.net:8080/picon/canal_11.png" group-title="Portugal",CANAL11 FHD
-http://newreality2020.com:25461/primodiogo/16092021/94823
-#EXTINF:-1 tvg-id="Canal 11 HD" tvg-name="CANAL 11 " tvg-logo="http://picons1.ddns.net:8080/picon/canal_11.png" group-title="Portugal",CANAL 11 
-http://newreality2020.com:25461/primodiogo/16092021/94824
-#EXTINF:-1 tvg-id="Porto Canal HD" tvg-name="PORTO CANAL " tvg-logo="http://picons1.ddns.net:8080/picon/porto_canal_hd.png" group-title="Portugal",PORTO CANAL 
-http://newreality2020.com:25461/primodiogo/16092021/94825
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 DESPORTO" tvg-logo="https://palsawa.com/uploads/images/2023/08/TUhxB.jpg" group-title="Portugal",SSC 1 DESPORTO
-http://newreality2020.com:25461/primodiogo/16092021/94831
-#EXTINF:-1 tvg-id="" tvg-name="SPORT-DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sport-Digital_hd.svg/2560px-Sport-Digital_hd.svg.png" group-title="Portugal",SPORT-DIGITAL HD
-http://newreality2020.com:25461/primodiogo/16092021/94832
-#EXTINF:-1 tvg-id="" tvg-name=" LIGA BETCLIC NOS" tvg-logo="https://pbs.twimg.com/media/F1T9WfBWIAEQQ7G.png" group-title="Portugal", LIGA BETCLIC NOS
-http://newreality2020.com:25461/primodiogo/16092021/94833
-#EXTINF:-1 tvg-id="Sport TV+" tvg-name="SPORT TV +" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-mais-rebrand.png" group-title="Portugal",SPORT TV +
-http://newreality2020.com:25461/primodiogo/16092021/94834
-#EXTINF:-1 tvg-id="Sport TV1" tvg-name=" SPORT TV 1 FHD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-1-rebrand.png" group-title="Portugal", SPORT TV 1 FHD
-http://newreality2020.com:25461/primodiogo/16092021/94835
-#EXTINF:-1 tvg-id="Sport TV1" tvg-name="SPORT TV 1 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-1-rebrand.png" group-title="Portugal",SPORT TV 1 
-http://newreality2020.com:25461/primodiogo/16092021/94836
-#EXTINF:-1 tvg-id="Sport TV1" tvg-name="SPORT TV 1 FHD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-1-rebrand.png" group-title="Portugal",SPORT TV 1 FHD
-http://newreality2020.com:25461/primodiogo/16092021/94837
-#EXTINF:-1 tvg-id="Sport TV2" tvg-name="SPORT TV 2 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-2-rebrand.png" group-title="Portugal",SPORT TV 2 
-http://newreality2020.com:25461/primodiogo/16092021/94838
-#EXTINF:-1 tvg-id="Sport TV2" tvg-name="SPORT TV 2 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-2-rebrand.png" group-title="Portugal",SPORT TV 2 
-http://newreality2020.com:25461/primodiogo/16092021/94839
-#EXTINF:-1 tvg-id="SPORT TV3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-3-rebrand.png" group-title="Portugal",SPORT TV 3 HD
-http://newreality2020.com:25461/primodiogo/16092021/94840
-#EXTINF:-1 tvg-id="Sport TV3" tvg-name="SPORT TV 3 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-3-rebrand.png" group-title="Portugal",SPORT TV 3 
-http://newreality2020.com:25461/primodiogo/16092021/94841
-#EXTINF:-1 tvg-id="Sport TV4" tvg-name="SPORT TV 4 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-4-rebrand.png" group-title="Portugal",SPORT TV 4 
-http://newreality2020.com:25461/primodiogo/16092021/94842
-#EXTINF:-1 tvg-id="Sport TV4" tvg-name="SPORT TV 4 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-4-rebrand.png" group-title="Portugal",SPORT TV 4 
-http://newreality2020.com:25461/primodiogo/16092021/94843
-#EXTINF:-1 tvg-id="SPORT TV5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-5-rebrand.png" group-title="Portugal",SPORT TV 5 HD
-http://newreality2020.com:25461/primodiogo/16092021/94844
-#EXTINF:-1 tvg-id="Sport TV6" tvg-name="SPORT TV 6 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-6-rebrand.png" group-title="Portugal",SPORT TV 6 
-http://newreality2020.com:25461/primodiogo/16092021/94845
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1 " tvg-logo="https://i.imgur.com/aTv8yyU.png" group-title="Portugal",ELEVEN SPORTS 1 
-http://newreality2020.com:25461/primodiogo/16092021/94852
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1 " tvg-logo="https://i.imgur.com/aTv8yyU.png" group-title="Portugal",ELEVEN SPORTS 1 
-http://newreality2020.com:25461/primodiogo/16092021/94853
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven1.png" group-title="Portugal",ELEVEN SPORTS 1 HD
-http://newreality2020.com:25461/primodiogo/16092021/94854
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2 " tvg-logo="https://i.imgur.com/Zpu7WHl.png" group-title="Portugal",ELEVEN SPORTS 2 
-http://newreality2020.com:25461/primodiogo/16092021/94855
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name=" ELEVEN SPORTS 2 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven2.png" group-title="Portugal", ELEVEN SPORTS 2 HD
-http://newreality2020.com:25461/primodiogo/16092021/94856
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name=" ELEVEN SPORTS 3 " tvg-logo="https://i.imgur.com/ZT96eeT.png" group-title="Portugal", ELEVEN SPORTS 3 
-http://newreality2020.com:25461/primodiogo/16092021/94857
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven3.png" group-title="Portugal",ELEVEN SPORTS 3 HD
-http://newreality2020.com:25461/primodiogo/16092021/94858
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 " tvg-logo="https://i.imgur.com/3R1nSiN.png" group-title="Portugal",ELEVEN SPORTS 4 
-http://newreality2020.com:25461/primodiogo/16092021/94859
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven4.png" group-title="Portugal",ELEVEN SPORTS 4 HD
-http://newreality2020.com:25461/primodiogo/16092021/94860
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://i.imgur.com/NSZepYR.png" group-title="Portugal",ELEVEN SPORTS 5 HD
-http://newreality2020.com:25461/primodiogo/16092021/94861
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven4.png" group-title="Portugal",ELEVEN SPORTS 5 HD
-http://newreality2020.com:25461/primodiogo/16092021/94862
-#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORTS 6 HD" tvg-logo="https://i.imgur.com/5aEgAt6.png" group-title="Portugal", ELEVEN SPORTS 6 HD
-http://newreality2020.com:25461/primodiogo/16092021/94863
-#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORTS 6 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven6.png" group-title="Portugal", ELEVEN SPORTS 6 HD
-http://newreality2020.com:25461/primodiogo/16092021/94864
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv.png" group-title="Portugal",BTV 
-http://newreality2020.com:25461/primodiogo/16092021/94848
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv_hd.png" group-title="Portugal",BTV 
-http://newreality2020.com:25461/primodiogo/16092021/94849
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="https://i.imgur.com/BuIok7w.png" group-title="Portugal",BTV 
-http://newreality2020.com:25461/primodiogo/16092021/94850
-#EXTINF:-1 tvg-id="BTV1 HD" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv_hd.png" group-title="Portugal",BTV 
-http://newreality2020.com:25461/primodiogo/16092021/94851
-#EXTINF:-1 tvg-id="SPORTING TV HD" tvg-name=" SPORTING TV " tvg-logo="http://picons1.ddns.net:8080/picon/sporting_tv.png" group-title="Portugal", SPORTING TV 
-http://newreality2020.com:25461/primodiogo/16092021/94827
-#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV " tvg-logo="http://picons1.ddns.net:8080/picon/sporting_tv_hd.png" group-title="Portugal",SPORTING TV 
-http://newreality2020.com:25461/primodiogo/16092021/94828
-#EXTINF:-1 tvg-id="A Bola TV" tvg-name="BOLA TV " tvg-logo="http://picons1.ddns.net:8080/picon/a_bola_tv.png" group-title="Portugal",BOLA TV 
-http://newreality2020.com:25461/primodiogo/16092021/94826
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA" tvg-logo="https://www.hvadkosterdet.dk/wp-content/uploads/2016/10/viaplay-logo-1-min.png" group-title="Portugal",VIAPLAY XTRA
-http://newreality2020.com:25461/primodiogo/16092021/94829
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Portugal",DAZN F1
-http://newreality2020.com:25461/primodiogo/16092021/94830
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 " tvg-logo="https://i.imgur.com/hoc8w5W.png" group-title="Portugal",EUROSPORT 1 
-http://newreality2020.com:25461/primodiogo/16092021/94865
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 " tvg-logo="https://i.imgur.com/Blinlkc.png" group-title="Portugal",EUROSPORT 2 
-http://newreality2020.com:25461/primodiogo/16092021/94866
-#EXTINF:-1 tvg-id="PFC" tvg-name=" PFC BRASIL NOS" tvg-logo="http://picons1.ddns.net:8080/picon/pfc.png" group-title="Portugal", PFC BRASIL NOS
-http://newreality2020.com:25461/primodiogo/16092021/94867
-#EXTINF:-1 tvg-id="Sport TV NBA" tvg-name="SPORT TV NBA HD" tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="Portugal",SPORT TV NBA HD
-http://newreality2020.com:25461/primodiogo/16092021/94846
-#EXTINF:-1 tvg-id="Sport TV NBA" tvg-name="SPORT TV NBA " tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="Portugal",SPORT TV NBA 
-http://newreality2020.com:25461/primodiogo/16092021/94847
-#EXTINF:-1 tvg-id="" tvg-name="FUEL TV MEO" tvg-logo="http://picons1.ddns.net:8080/picon/fuel_tv.png" group-title="Portugal",FUEL TV MEO
-http://newreality2020.com:25461/primodiogo/16092021/94868
-#EXTINF:-1 tvg-id="" tvg-name="MOVIE SPHERE" tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/moviesphere.png" group-title="Portugal",MOVIE SPHERE
-http://newreality2020.com:25461/primodiogo/16092021/94869
-#EXTINF:-1 tvg-id="TVCine ACTION FHD" tvg-name=" TV ACTION " tvg-logo="https://i.imgur.com/yqQgKq8.png" group-title="Portugal", TV ACTION 
-http://newreality2020.com:25461/primodiogo/16092021/94870
-#EXTINF:-1 tvg-id="TVCine Action HD" tvg-name="TV CINE ACTION " tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_action.png" group-title="Portugal",TV CINE ACTION 
-http://newreality2020.com:25461/primodiogo/16092021/94871
-#EXTINF:-1 tvg-id="TVCine Action" tvg-name="TVCINE ACTION" tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_action.png" group-title="Portugal",TVCINE ACTION
-http://newreality2020.com:25461/primodiogo/16092021/94872
-#EXTINF:-1 tvg-id="" tvg-name=" TV ACTION" tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_action_hd.png" group-title="Portugal", TV ACTION
-http://newreality2020.com:25461/primodiogo/16092021/94873
-#EXTINF:-1 tvg-id="TVCine Action HD" tvg-name="TV CINE ACTION " tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_action.png" group-title="Portugal",TV CINE ACTION 
-http://newreality2020.com:25461/primodiogo/16092021/94874
-#EXTINF:-1 tvg-id="TVCine Action HD" tvg-name="TV CINE ACTION " tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_action_hd.png" group-title="Portugal",TV CINE ACTION 
-http://newreality2020.com:25461/primodiogo/16092021/94875
-#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TV CINE TOP" tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_top.png" group-title="Portugal",TV CINE TOP
-http://newreality2020.com:25461/primodiogo/16092021/94876
-#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TV CINE TOP" tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_top.png" group-title="Portugal",TV CINE TOP
-http://newreality2020.com:25461/primodiogo/16092021/94877
-#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TV CINE TOP " tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_top_hd.png" group-title="Portugal",TV CINE TOP 
-http://newreality2020.com:25461/primodiogo/16092021/94878
-#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TV CINE TOP" tvg-logo="https://i.imgur.com/T7OkUCn.png" group-title="Portugal",TV CINE TOP
-http://newreality2020.com:25461/primodiogo/16092021/94879
-#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TV CINE TOP" tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_top.png" group-title="Portugal",TV CINE TOP
-http://newreality2020.com:25461/primodiogo/16092021/94880
-#EXTINF:-1 tvg-id="TVCINE Emotion HD" tvg-name="TV CINE EMOTION " tvg-logo="https://i.imgur.com/7IxpGlp.png" group-title="Portugal",TV CINE EMOTION 
-http://newreality2020.com:25461/primodiogo/16092021/94881
-#EXTINF:-1 tvg-id="TVCINE Emotion HD" tvg-name="TV CINE EMOTION" tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_emotion.png" group-title="Portugal",TV CINE EMOTION
-http://newreality2020.com:25461/primodiogo/16092021/94882
-#EXTINF:-1 tvg-id="TVCINE Emotion HD" tvg-name="TV CINE EMOTION " tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_emotion.png" group-title="Portugal",TV CINE EMOTION 
-http://newreality2020.com:25461/primodiogo/16092021/94883
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EMOTION " tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_emotion.png" group-title="Portugal",TV CINE EMOTION 
-http://newreality2020.com:25461/primodiogo/16092021/94884
-#EXTINF:-1 tvg-id="TVCINE Edition HD" tvg-name="TV  CINE EDITION" tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_edition.png" group-title="Portugal",TV  CINE EDITION
-http://newreality2020.com:25461/primodiogo/16092021/94885
-#EXTINF:-1 tvg-id="TVCine EDITION FHD" tvg-name="TV CINE EDITION " tvg-logo="https://i.imgur.com/131hifO.png" group-title="Portugal",TV CINE EDITION 
-http://newreality2020.com:25461/primodiogo/16092021/94886
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EDITION " tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_edition.png" group-title="Portugal",TV CINE EDITION 
-http://newreality2020.com:25461/primodiogo/16092021/94887
-#EXTINF:-1 tvg-id="TVCINE Edition HD" tvg-name=" TV CINE EDITION " tvg-logo="http://picons1.ddns.net:8080/picon/tvcine_edition_hd.png" group-title="Portugal", TV CINE EDITION 
-http://newreality2020.com:25461/primodiogo/16092021/94888
-#EXTINF:-1 tvg-id="NOS Studios PT" tvg-name="NOS STUDIOS" tvg-logo="https://i.imgur.com/OcmyJrE.png" group-title="Portugal",NOS STUDIOS
-http://newreality2020.com:25461/primodiogo/16092021/94916
-#EXTINF:-1 tvg-id="NOS Studios PT" tvg-name=" NOS STUDIOS" tvg-logo="http://picons1.ddns.net:8080/picon/nos_studios_hd.png" group-title="Portugal", NOS STUDIOS
-http://newreality2020.com:25461/primodiogo/16092021/94917
-#EXTINF:-1 tvg-id="NOS Studios HD" tvg-name="NOS STUDIOS" tvg-logo="http://picons1.ddns.net:8080/picon/nos_studios_hd.png" group-title="Portugal",NOS STUDIOS
-http://newreality2020.com:25461/primodiogo/16092021/94918
-#EXTINF:-1 tvg-id="Hollywood PT" tvg-name="HOLLYWOOD " tvg-logo="http://picons1.ddns.net:8080/picon/hollywood.png" group-title="Portugal",HOLLYWOOD 
-http://newreality2020.com:25461/primodiogo/16092021/94889
-#EXTINF:-1 tvg-id="Hollywood PT" tvg-name=" HOLLYWOOD " tvg-logo="http://picons1.ddns.net:8080/picon/hollywood.png" group-title="Portugal", HOLLYWOOD 
-http://newreality2020.com:25461/primodiogo/16092021/94890
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="http://picons1.ddns.net:8080/picon/cinemundo.png" group-title="Portugal",CINEMUNDO
-http://newreality2020.com:25461/primodiogo/16092021/94919
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDO " tvg-logo="http://picons1.ddns.net:8080/picon/cinemundo_hd.png" group-title="Portugal",CINEMUNDO 
-http://newreality2020.com:25461/primodiogo/16092021/94920
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDO " tvg-logo="http://picons1.ddns.net:8080/picon/cinemundo.png" group-title="Portugal",CINEMUNDO 
-http://newreality2020.com:25461/primodiogo/16092021/94921
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC " tvg-logo="http://picons1.ddns.net:8080/picon/amc_hd.png" group-title="Portugal",AMC 
-http://newreality2020.com:25461/primodiogo/16092021/94891
-#EXTINF:-1 tvg-id="AMC HD" tvg-name=" AMC " tvg-logo="http://picons1.ddns.net:8080/picon/amc_hd.png" group-title="Portugal", AMC 
-http://newreality2020.com:25461/primodiogo/16092021/94892
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC " tvg-logo="http://picons1.ddns.net:8080/picon/amc_hd.png" group-title="Portugal",AMC 
-http://newreality2020.com:25461/primodiogo/16092021/94893
-#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC CRIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/2560px-AMC_Crime.svg.png" group-title="Portugal",AMC CRIME HD
-http://newreality2020.com:25461/primodiogo/16092021/94968
-#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Portugal",AMC BREAK
-http://newreality2020.com:25461/primodiogo/16092021/94894
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN " tvg-logo="http://picons1.ddns.net:8080/picon/axn_hd.png" group-title="Portugal",AXN 
-http://newreality2020.com:25461/primodiogo/16092021/94895
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN " tvg-logo="http://picons1.ddns.net:8080/picon/axn_hd.png" group-title="Portugal",AXN 
-http://newreality2020.com:25461/primodiogo/16092021/94896
-#EXTINF:-1 tvg-id="AXN HD" tvg-name=" AXN " tvg-logo="http://nordbam.com:8787/images/873354fc0019f5bb6d6eb3497c9e7bda.png" group-title="Portugal", AXN 
-http://newreality2020.com:25461/primodiogo/16092021/94897
-#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES " tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png" group-title="Portugal",AXN MOVIES 
-http://newreality2020.com:25461/primodiogo/16092021/94898
-#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN MOVIES " tvg-logo="http://nordbam.com:8787/images/3705981248abefe88012ee99344b5826.png" group-title="Portugal",AXN MOVIES 
-http://newreality2020.com:25461/primodiogo/16092021/94899
-#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN WHITE " tvg-logo="http://picons1.ddns.net:8080/picon/axn_white_hd.png" group-title="Portugal",AXN WHITE 
-http://newreality2020.com:25461/primodiogo/16092021/94900
-#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN WHITE " tvg-logo="http://sourcelocal.na-no.xyz:8000/images/ldiq2dOwHaaP2MoP1gCcfv4Hcep-k_dSndL8Bh1o0DW3VWiqcX2I-vmPDtK4ZzVcvx4mt-hh0DgpLVsG6-p1Ig.png" group-title="Portugal",AXN WHITE 
-http://newreality2020.com:25461/primodiogo/16092021/94901
-#EXTINF:-1 tvg-id="FOX Movies HD" tvg-name="STAR MOVIES " tvg-logo="http://picons1.ddns.net:8080/picon/StarMovies.png" group-title="Portugal",STAR MOVIES 
-http://newreality2020.com:25461/primodiogo/16092021/94902
-#EXTINF:-1 tvg-id="FOX Movies HD" tvg-name="STAR MOVIES " tvg-logo="http://picons1.ddns.net:8080/picon/StarMovies.png" group-title="Portugal",STAR MOVIES 
-http://newreality2020.com:25461/primodiogo/16092021/94903
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="STAR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Portugal",STAR 
-http://newreality2020.com:25461/primodiogo/16092021/94904
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="STAR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Portugal",STAR 
-http://newreality2020.com:25461/primodiogo/16092021/94905
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="STAR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Portugal",STAR 
-http://newreality2020.com:25461/primodiogo/16092021/94906
-#EXTINF:-1 tvg-id="FOX Life HD" tvg-name="STAR LIFE" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png" group-title="Portugal",STAR LIFE
-http://newreality2020.com:25461/primodiogo/16092021/94907
-#EXTINF:-1 tvg-id="FOX Life HD" tvg-name="STAR LIFE" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png" group-title="Portugal",STAR LIFE
-http://newreality2020.com:25461/primodiogo/16092021/94908
-#EXTINF:-1 tvg-id="FOX Life HD" tvg-name="STAR LIFE" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png" group-title="Portugal",STAR LIFE
-http://newreality2020.com:25461/primodiogo/16092021/94909
-#EXTINF:-1 tvg-id="FOX Comedy HD" tvg-name="STAR COMEDY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/640px-Star_Comedy_2020.svg.png" group-title="Portugal",STAR COMEDY 
-http://newreality2020.com:25461/primodiogo/16092021/94910
-#EXTINF:-1 tvg-id="FOX Comedy HD" tvg-name="STAR COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/640px-Star_Comedy_2020.svg.png" group-title="Portugal",STAR COMEDY
-http://newreality2020.com:25461/primodiogo/16092021/94911
-#EXTINF:-1 tvg-id="FOX Comedy HD" tvg-name="STAR COMEDY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/640px-Star_Comedy_2020.svg.png" group-title="Portugal",STAR COMEDY 
-http://newreality2020.com:25461/primodiogo/16092021/94912
-#EXTINF:-1 tvg-id="FOX Crime HD" tvg-name="STAR CRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/220px-Star_Crime_2023.svg.png" group-title="Portugal",STAR CRIME
-http://newreality2020.com:25461/primodiogo/16092021/94913
-#EXTINF:-1 tvg-id="FOX Crime HD" tvg-name=" STAR CRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/220px-Star_Crime_2023.svg.png" group-title="Portugal", STAR CRIME
-http://newreality2020.com:25461/primodiogo/16092021/94914
-#EXTINF:-1 tvg-id="FOX Crime HD" tvg-name="STAR CRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/220px-Star_Crime_2023.svg.png" group-title="Portugal",STAR CRIME
-http://newreality2020.com:25461/primodiogo/16092021/94915
-#EXTINF:-1 tvg-id="Syfy HD" tvg-name="SYFY " tvg-logo="http://picons1.ddns.net:8080/picon/syfy_hd.png" group-title="Portugal",SYFY 
-http://newreality2020.com:25461/primodiogo/16092021/94922
-#EXTINF:-1 tvg-id="Biggs" tvg-name="BIGGS MEO" tvg-logo="http://picons1.ddns.net:8080/picon/biggs.png" group-title="Portugal",BIGGS MEO
-http://newreality2020.com:25461/primodiogo/16092021/94812
-#EXTINF:-1 tvg-id="Canal Panda HD" tvg-name="PANDA" tvg-logo="http://picons1.ddns.net:8080/picon/panda.png" group-title="Portugal",PANDA
-http://newreality2020.com:25461/primodiogo/16092021/94813
-#EXTINF:-1 tvg-id="Canal Panda HD" tvg-name="PANDA " tvg-logo="http://picons1.ddns.net:8080/picon/panda.png" group-title="Portugal",PANDA 
-http://newreality2020.com:25461/primodiogo/16092021/94814
-#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="BABY-TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/BabyTV_Blue.png" group-title="Portugal",BABY-TV
-http://newreality2020.com:25461/primodiogo/16092021/94815
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name=" NICK.JR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Portugal", NICK.JR 
-http://newreality2020.com:25461/primodiogo/16092021/94816
-#EXTINF:-1 tvg-id="" tvg-name="LOLLY KIDS MEO" tvg-logo="https://funstoregalore.com/cdn/shop/collections/JOLLY_KIDS_Logo_2022.png" group-title="Portugal",LOLLY KIDS MEO
-http://newreality2020.com:25461/primodiogo/16092021/94817
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="NICKELODEON " tvg-logo="http://picons1.ddns.net:8080/picon/nickelodeon.png" group-title="Portugal",NICKELODEON 
-http://newreality2020.com:25461/primodiogo/16092021/94818
-#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name=" DISNEY JUNIOR" tvg-logo="http://picons1.ddns.net:8080/picon/disney_junior.png" group-title="Portugal", DISNEY JUNIOR
-http://newreality2020.com:25461/primodiogo/16092021/94819
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL MEO" tvg-logo="http://picons1.ddns.net:8080/picon/disney_channel.png" group-title="Portugal",DISNEY CHANNEL MEO
-http://newreality2020.com:25461/primodiogo/16092021/94820
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO " tvg-logo="https://www.studiohari.com/admin/wp-content/uploads/2020/11/cartoonito.png" group-title="Portugal",CARTOONITO 
-http://newreality2020.com:25461/primodiogo/16092021/94821
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK " tvg-logo="http://picons1.ddns.net:8080/picon/cartoon_network.png" group-title="Portugal",CARTOON NETWORK 
-http://newreality2020.com:25461/primodiogo/16092021/94822
-#EXTINF:-1 tvg-id="SIC K HD" tvg-name=" SIC K " tvg-logo="http://picons1.ddns.net:8080/picon/sic_k.png" group-title="Portugal", SIC K 
-http://newreality2020.com:25461/primodiogo/16092021/94790
-#EXTINF:-1 tvg-id="TLC" tvg-name=" TLC " tvg-logo="http://picons1.ddns.net:8080/picon/tlc.png" group-title="Portugal", TLC 
-http://newreality2020.com:25461/primodiogo/16092021/94923
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsbYUK0a9hFU2U5wCescN5Ag.png" group-title="Portugal",E! ENTERTAINMENT
-http://newreality2020.com:25461/primodiogo/16092021/94924
-#EXTINF:-1 tvg-id="" tvg-name="CANAL Q " tvg-logo="http://picons1.ddns.net:8080/picon/canalq.png" group-title="Portugal",CANAL Q 
-http://newreality2020.com:25461/primodiogo/16092021/94925
-#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="CAÇA E PESCA FHD" tvg-logo="http://picons1.ddns.net:8080/picon/cacaepesca.png" group-title="Portugal",CAÇA E PESCA FHD
-http://newreality2020.com:25461/primodiogo/16092021/94926
-#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="CACA E PESCA HD" tvg-logo="http://picons1.ddns.net:8080/picon/cacaepesca.png" group-title="Portugal",CACA E PESCA HD
-http://newreality2020.com:25461/primodiogo/16092021/94927
-#EXTINF:-1 tvg-id="Caçavision HD" tvg-name=" CAÇAVISION " tvg-logo="http://picons1.ddns.net:8080/picon/cacavision.png" group-title="Portugal", CAÇAVISION 
-http://newreality2020.com:25461/primodiogo/16092021/94928
-#EXTINF:-1 tvg-id="Canal História" tvg-name="HISTORIA " tvg-logo="http://picons1.ddns.net:8080/picon/historia.png" group-title="Portugal",HISTORIA 
-http://newreality2020.com:25461/primodiogo/16092021/94929
-#EXTINF:-1 tvg-id="ODISSEIA HD" tvg-name="ODISSEIA " tvg-logo="https://i.imgur.com/NbJT7GR.png" group-title="Portugal",ODISSEIA 
-http://newreality2020.com:25461/primodiogo/16092021/94930
-#EXTINF:-1 tvg-id="ODISSEIA HD" tvg-name="ODISSEIA " tvg-logo="http://picons1.ddns.net:8080/picon/odisseia_hd.png" group-title="Portugal",ODISSEIA 
-http://newreality2020.com:25461/primodiogo/16092021/94931
-#EXTINF:-1 tvg-id="Travel Channel" tvg-name="TRAVEL CHANNEL " tvg-logo="http://picons1.ddns.net:8080/picon/travel_channel.png" group-title="Portugal",TRAVEL CHANNEL 
-http://newreality2020.com:25461/primodiogo/16092021/94932
-#EXTINF:-1 tvg-id="National Geographic WILD HD" tvg-name=" NAT GEO WILD" tvg-logo="http://picons1.ddns.net:8080/picon/nat_geo_wild.png" group-title="Portugal", NAT GEO WILD
-http://newreality2020.com:25461/primodiogo/16092021/94933
-#EXTINF:-1 tvg-id="National Geographic WILD HD" tvg-name=" NAT GEO WILD " tvg-logo="http://picons1.ddns.net:8080/picon/nat_geo_wild_hd.png" group-title="Portugal", NAT GEO WILD 
-http://newreality2020.com:25461/primodiogo/16092021/94934
-#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="CRIME+INVESTIGATION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Crime_and_Investigation_Canada_TV_logo.png" group-title="Portugal",CRIME+INVESTIGATION
-http://newreality2020.com:25461/primodiogo/16092021/94935
-#EXTINF:-1 tvg-id="National Geographic WILD HD" tvg-name="NATIONAL GEOG WILD " tvg-logo="https://i.imgur.com/60Vchr8.png" group-title="Portugal",NATIONAL GEOG WILD 
-http://newreality2020.com:25461/primodiogo/16092021/94936
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/1280px-Nat_Geo_HD_Logo.svg.png" group-title="Portugal",NATIONAL GEOGRAPHIC 
-http://newreality2020.com:25461/primodiogo/16092021/94937
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://picons1.ddns.net:8080/picon/discovery_channel.png" group-title="Portugal",DISCOVERY CHANNEL 
-http://newreality2020.com:25461/primodiogo/16092021/94938
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://picons1.ddns.net:8080/picon/discovery_channel.png" group-title="Portugal",DISCOVERY CHANNEL 
-http://newreality2020.com:25461/primodiogo/16092021/94939
-#EXTINF:-1 tvg-id="" tvg-name="MTV EXTRA" tvg-logo="http://picons1.ddns.net:8080/picon/mtv_hd.png" group-title="Portugal",MTV EXTRA
-http://newreality2020.com:25461/primodiogo/16092021/94948
-#EXTINF:-1 tvg-id="MTV Portugal HD" tvg-name="MTV PT " tvg-logo="http://picons1.ddns.net:8080/picon/mtv_hd.png" group-title="Portugal",MTV PT 
-http://newreality2020.com:25461/primodiogo/16092021/94949
-#EXTINF:-1 tvg-id="MTV 00s" tvg-name=" MTV 00S " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Portugal", MTV 00S 
-http://newreality2020.com:25461/primodiogo/16092021/94950
-#EXTINF:-1 tvg-id="Trace Toca" tvg-name="TRACE TOCA " tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/2022/11/TraceToca_Logo_Colour_578x278.png" group-title="Portugal",TRACE TOCA 
-http://newreality2020.com:25461/primodiogo/16092021/94951
-#EXTINF:-1 tvg-id="MCM Top" tvg-name="MCM TOP " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c3/MCM_Top_logo_2003.png" group-title="Portugal",MCM TOP 
-http://newreality2020.com:25461/primodiogo/16092021/94952
-#EXTINF:-1 tvg-id="Trace Urban HD" tvg-name="TRACE URBAN " tvg-logo="http://picons1.ddns.net:8080/picon/traceurban.png" group-title="Portugal",TRACE URBAN 
-http://newreality2020.com:25461/primodiogo/16092021/94953
-#EXTINF:-1 tvg-id="Afro Music Channel" tvg-name=" AFRO MUSIC " tvg-logo="https://i.industriacriativa.pt/7839/18741/ic_capa.jpg" group-title="Portugal", AFRO MUSIC 
-http://newreality2020.com:25461/primodiogo/16092021/94954
-#EXTINF:-1 tvg-id="" tvg-name="ZAP VIVA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="Portugal",ZAP VIVA 
-http://newreality2020.com:25461/primodiogo/16092021/94955
-#EXTINF:-1 tvg-id="" tvg-name="AFRO-BEATS" tvg-logo="https://officialafrobeatslive.com/wp-content/uploads/2021/02/AfrobeatsLive_Logo_Web.png" group-title="Portugal",AFRO-BEATS
-http://newreality2020.com:25461/primodiogo/16092021/94956
-#EXTINF:-1 tvg-id="Globo HD" tvg-name=" GLOBO " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="Portugal", GLOBO 
-http://newreality2020.com:25461/primodiogo/16092021/94940
-#EXTINF:-1 tvg-id="Globo HD" tvg-name="GLOBO " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="Portugal",GLOBO 
-http://newreality2020.com:25461/primodiogo/16092021/94941
-#EXTINF:-1 tvg-id="Record TV HD" tvg-name="TV-RECORD MEO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Portugal",TV-RECORD MEO
-http://newreality2020.com:25461/primodiogo/16092021/94942
-#EXTINF:-1 tvg-id="Record TV HD" tvg-name="TV RECORD " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Portugal",TV RECORD 
-http://newreality2020.com:25461/primodiogo/16092021/94943
-#EXTINF:-1 tvg-id="Record TV HD" tvg-name=" TSA-RECORD TV HD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/11/TVRecordNewsAoVivoAssistirRecordNewsOnLine.jpg" group-title="Portugal", TSA-RECORD TV HD
-http://newreality2020.com:25461/primodiogo/16092021/94944
-#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV GALICIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/2048px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Portugal",TV GALICIA 
-http://newreality2020.com:25461/primodiogo/16092021/94945
-#EXTINF:-1 tvg-id="" tvg-name="ONETORO TV " tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="Portugal",ONETORO TV 
-http://newreality2020.com:25461/primodiogo/16092021/94946
-#EXTINF:-1 tvg-id="" tvg-name="ONETORO TV " tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="Portugal",ONETORO TV 
-http://newreality2020.com:25461/primodiogo/16092021/94947
-#EXTINF:-1 tvg-id="" tvg-name=" MYTIME" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Portugal", MYTIME
-http://newreality2020.com:25461/primodiogo/16092021/94957
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RED BULL TV" tvg-logo="https://img.ibxk.com.br/2014/2/programas/8119410120036009.png" group-title="Portugal",RED BULL TV
-http://newreality2020.com:25461/primodiogo/16092021/94958
-#EXTINF:-1 tvg-id="" tvg-name=" FIGHTBOX HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="Portugal", FIGHTBOX HD
-http://newreality2020.com:25461/primodiogo/16092021/94959
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Thefightnetwork.svg/250px-Thefightnetwork.svg.png" group-title="Portugal",FIGHT NETWORK 
-http://newreality2020.com:25461/primodiogo/16092021/94960
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://neowear.smarthost.pl/neowear.smarthost.pl/morebass/DjSugus/FIGHTNETWORK.png" group-title="Portugal",FOOD NETWORK
-http://newreality2020.com:25461/primodiogo/16092021/94961
-#EXTINF:-1 tvg-id="" tvg-name="S+ MEO" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/304a6782-10ad-4d45-9386-bfce646e72ca.png" group-title="Portugal",S+ MEO
-http://newreality2020.com:25461/primodiogo/16092021/94962
-#EXTINF:-1 tvg-id="" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cubavisi%C3%B3n_tv.jpg" group-title="Portugal",CUBAVISION INTERNACIONAL
-http://newreality2020.com:25461/primodiogo/16092021/94963
-#EXTINF:-1 tvg-id="" tvg-name="TVE 24H " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="Portugal",TVE 24H 
-http://newreality2020.com:25461/primodiogo/16092021/94964
-#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Portugal",CANCAO NOVA 
-http://newreality2020.com:25461/primodiogo/16092021/94965
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Portugal",EURONEWS 
-http://newreality2020.com:25461/primodiogo/16092021/94966
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK HD" tvg-logo="https://w7.pngwing.com/pngs/955/542/png-transparent-wwe-network-women-in-wwe-logo-wwe-smackdown-wwe-angle-text-triangle-thumbnail.png" group-title="Portugal",WWE NETWORK HD
-http://newreality2020.com:25461/primodiogo/16092021/94967
-#EXTINF:-1 tvg-id="Casa e Cozinha HD" tvg-name="CASA COZINHA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="Portugal",CASA COZINHA 
-http://newreality2020.com:25461/primodiogo/16092021/94809
-#EXTINF:-1 tvg-id="24Kitchen HD" tvg-name="24 KITCHEN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" group-title="Portugal",24 KITCHEN 
-http://newreality2020.com:25461/primodiogo/16092021/94810
+#EXTINF:-1 tvg-id="" tvg-name="✨CBRLIG✨" tvg-logo="http://logos.giize.com/logos/logos%20rui/logocbrlig.png" group-title="Portugal ✠",✨CBRLIG✨
+http://cbrlig.com:8080/Jorge123/Jorge123/330
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTP1.png" group-title="Portugal ✠",RTP 1
+http://cbrlig.com:8080/Jorge123/Jorge123/331
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTP1HD.png" group-title="Portugal ✠",RTP 1 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/332
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 FHD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTP1HD.png" group-title="Portugal ✠",RTP 1 FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/130795
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTP2.png" group-title="Portugal ✠",RTP 2
+http://cbrlig.com:8080/Jorge123/Jorge123/334
+#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTP2HD.png" group-title="Portugal ✠",RTP 2 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/335
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 FHD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTP2HD.png" group-title="Portugal ✠",RTP 2 FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/130797
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SIC.png" group-title="Portugal ✠",SIC
+http://cbrlig.com:8080/Jorge123/Jorge123/81373
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SIC.png" group-title="Portugal ✠",SIC HD
+http://cbrlig.com:8080/Jorge123/Jorge123/337
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="Sic FHD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SIC.png" group-title="Portugal ✠",Sic FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/79825
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVI.png" group-title="Portugal ✠",TVI
+http://cbrlig.com:8080/Jorge123/Jorge123/339
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI Hd" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVI.png" group-title="Portugal ✠",TVI Hd
+http://cbrlig.com:8080/Jorge123/Jorge123/340
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI Fhd" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVI.png" group-title="Portugal ✠",TVI Fhd
+http://cbrlig.com:8080/Jorge123/Jorge123/78193
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="TVI FICÇÃO" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVIFICCAO.png" group-title="Portugal ✠",TVI FICÇÃO
+http://cbrlig.com:8080/Jorge123/Jorge123/341
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="TVI FICCAO HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVIFICCAO.png" group-title="Portugal ✠",TVI FICCAO HD
+http://cbrlig.com:8080/Jorge123/Jorge123/3620
+#EXTINF:-1 tvg-id="" tvg-name="SIC OPTO" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20portugal%20novos/SIC%20OPTO.png" group-title="Portugal ✠",SIC OPTO
+http://cbrlig.com:8080/Jorge123/Jorge123/194779
+#EXTINF:-1 tvg-id="SIC Novelas" tvg-name="Sic novelas" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20portugal%20novos/Sic%20novelas.png" group-title="Portugal ✠",Sic novelas
+http://cbrlig.com:8080/Jorge123/Jorge123/130075
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI REALITY" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVIREALITY.png" group-title="Portugal ✠",TVI REALITY
+http://cbrlig.com:8080/Jorge123/Jorge123/342
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVIREALITY.png" group-title="Portugal ✠",TVI Reality HD
+http://cbrlig.com:8080/Jorge123/Jorge123/51082
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality - Mosaico" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVIREALITY.png" group-title="Portugal ✠",TVI Reality - Mosaico
+http://cbrlig.com:8080/Jorge123/Jorge123/47730
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality - Camara 1" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVIREALITY.png" group-title="Portugal ✠",TVI Reality - Camara 1
+http://cbrlig.com:8080/Jorge123/Jorge123/47729
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality - Camara 2" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVIREALITY.png" group-title="Portugal ✠",TVI Reality - Camara 2
+http://cbrlig.com:8080/Jorge123/Jorge123/47728
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality - Camara 3" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVIREALITY.png" group-title="Portugal ✠",TVI Reality - Camara 3
+http://cbrlig.com:8080/Jorge123/Jorge123/47727
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality - Camara 4" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TVIREALITY.png" group-title="Portugal ✠",TVI Reality - Camara 4
+http://cbrlig.com:8080/Jorge123/Jorge123/47726
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC RADICAL" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SICRADICAL.png" group-title="Portugal ✠",SIC RADICAL
+http://cbrlig.com:8080/Jorge123/Jorge123/343
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC RADICAL HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SICRADICAL.png" group-title="Portugal ✠",SIC RADICAL HD
+http://cbrlig.com:8080/Jorge123/Jorge123/344
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="SIC CARAS" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SICCARAS.png" group-title="Portugal ✠",SIC CARAS
+http://cbrlig.com:8080/Jorge123/Jorge123/345
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SICMULHER.png" group-title="Portugal ✠",SIC MULHER
+http://cbrlig.com:8080/Jorge123/Jorge123/346
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SICMULHER.png" group-title="Portugal ✠",SIC MULHER HD
+http://cbrlig.com:8080/Jorge123/Jorge123/347
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="CANAL Q" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/CANALQ.png" group-title="Portugal ✠",CANAL Q
+http://cbrlig.com:8080/Jorge123/Jorge123/348
+#EXTINF:-1 tvg-id="tviafrica.pt" tvg-name="TVI AFRICA" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20portugal%20novos/TVI%20AFRICA.png" group-title="Portugal ✠",TVI AFRICA
+http://cbrlig.com:8080/Jorge123/Jorge123/198769
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="RTP AFRICA" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTPAFRICA.png" group-title="Portugal ✠",RTP AFRICA
+http://cbrlig.com:8080/Jorge123/Jorge123/351
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="RTP ACORES" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTPACORES.png" group-title="Portugal ✠",RTP ACORES
+http://cbrlig.com:8080/Jorge123/Jorge123/352
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP MEMÓRIA" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTPMEMORIA.png" group-title="Portugal ✠",RTP MEMÓRIA
+http://cbrlig.com:8080/Jorge123/Jorge123/353
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="RTP MADEIRA" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTPMADEIRA.png" group-title="Portugal ✠",RTP MADEIRA
+http://cbrlig.com:8080/Jorge123/Jorge123/354
+#EXTINF:-1 tvg-id="rtpinternacional.pt" tvg-name="RTP INTERNACIONAL" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTPINTERNATIONAL.png" group-title="Portugal ✠",RTP INTERNACIONAL
+http://cbrlig.com:8080/Jorge123/Jorge123/355
+#EXTINF:-1 tvg-id="tcvinternational.pt" tvg-name="TCV Internacional CaboVerde" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/TCVCABO.png" group-title="Portugal ✠",TCV Internacional CaboVerde
+http://cbrlig.com:8080/Jorge123/Jorge123/55215
+#EXTINF:-1 tvg-id="" tvg-name="✨NOTICIAS✨" tvg-logo="http://logos.giize.com/logos/logos%20rui/CBRLIG%20NOVO.png" group-title="Portugal ✠",✨NOTICIAS✨
+http://cbrlig.com:8080/Jorge123/Jorge123/356
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SICNOTOCIAS.png" group-title="Portugal ✠",SIC NOTICIAS
+http://cbrlig.com:8080/Jorge123/Jorge123/357
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SICNOTOCIAS.png" group-title="Portugal ✠",SIC NOTICIAS HD
+http://cbrlig.com:8080/Jorge123/Jorge123/110649
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="CNN Portugal" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/cnn.png" group-title="Portugal ✠",CNN Portugal
+http://cbrlig.com:8080/Jorge123/Jorge123/359
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="CNN Portugal HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/cnn.png" group-title="Portugal ✠",CNN Portugal HD
+http://cbrlig.com:8080/Jorge123/Jorge123/55260
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/CMTV.png" group-title="Portugal ✠",CMTV
+http://cbrlig.com:8080/Jorge123/Jorge123/360
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/CMTV.png" group-title="Portugal ✠",CMTV HD
+http://cbrlig.com:8080/Jorge123/Jorge123/361
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTP3.png" group-title="Portugal ✠",RTP 3
+http://cbrlig.com:8080/Jorge123/Jorge123/363
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/RTP3.png" group-title="Portugal ✠",RTP 3 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/362
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="AR TV" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20portugal%20novos/AR%20TV.png" group-title="Portugal ✠",AR TV
+http://cbrlig.com:8080/Jorge123/Jorge123/364
+#EXTINF:-1 tvg-id="" tvg-name="✨⚽️DESP0RT0⚽️✨" tvg-logo="http://logos.giize.com/logos/logos%20rui/CBRLIG%20NOVO.png" group-title="Portugal ✠",✨⚽️DESP0RT0⚽️✨
+http://cbrlig.com:8080/Jorge123/Jorge123/365
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPΘRT TV +" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV.png" group-title="Portugal ✠",SPΘRT TV +
+http://cbrlig.com:8080/Jorge123/Jorge123/366
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPΘRT TV + HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV.png" group-title="Portugal ✠",SPΘRT TV + HD
+http://cbrlig.com:8080/Jorge123/Jorge123/367
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPΘRT TV 1-LOW" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV%201-low.png" group-title="Portugal ✠",SPΘRT TV 1-LOW
+http://cbrlig.com:8080/Jorge123/Jorge123/81295
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPΘRT TV 1" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV1.png" group-title="Portugal ✠",SPΘRT TV 1
+http://cbrlig.com:8080/Jorge123/Jorge123/81294
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPΘRT TV 1-265 hd" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV%201-low.png" group-title="Portugal ✠",SPΘRT TV 1-265 hd
+http://cbrlig.com:8080/Jorge123/Jorge123/81293
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPΘRT TV 1 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV1HD.png" group-title="Portugal ✠",SPΘRT TV 1 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/81296
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPΘRT TV 1-265  FHD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV%201-low.png" group-title="Portugal ✠",SPΘRT TV 1-265  FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/82603
+#EXTINF:-1 tvg-id="sptv1hd.tv.vodafone.pt" tvg-name="SPΘRT TV 1 FHD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV1HD.png" group-title="Portugal ✠",SPΘRT TV 1 FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/197883
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPΘRT TV 2-LOW" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV2-low.png" group-title="Portugal ✠",SPΘRT TV 2-LOW
+http://cbrlig.com:8080/Jorge123/Jorge123/197889
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPΘRT TV 2" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV2.png" group-title="Portugal ✠",SPΘRT TV 2
+http://cbrlig.com:8080/Jorge123/Jorge123/373
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPΘRT TV 2-265 HD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV2-low.png" group-title="Portugal ✠",SPΘRT TV 2-265 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/197885
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPΘRT TV 2 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV2HD.png" group-title="Portugal ✠",SPΘRT TV 2 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/197890
+#EXTINF:-1 tvg-id="" tvg-name="SPΘRT TV 2-265 FHD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV2-low.png" group-title="Portugal ✠",SPΘRT TV 2-265 FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/193692
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPΘRT TV 2 FHD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV2HD.png" group-title="Portugal ✠",SPΘRT TV 2 FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/197887
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPΘRT TV 3-LOW" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV%203-low.png" group-title="Portugal ✠",SPΘRT TV 3-LOW
+http://cbrlig.com:8080/Jorge123/Jorge123/376
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPΘRT TV 3" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV3.png" group-title="Portugal ✠",SPΘRT TV 3
+http://cbrlig.com:8080/Jorge123/Jorge123/377
+#EXTINF:-1 tvg-id="" tvg-name="SPΘRT TV 3-265 HD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV%203-low.png" group-title="Portugal ✠",SPΘRT TV 3-265 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/193693
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPΘRT TV 3 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV3HD.png" group-title="Portugal ✠",SPΘRT TV 3 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/378
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPΘRT TV 4-LOW" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV%204-low.png" group-title="Portugal ✠",SPΘRT TV 4-LOW
+http://cbrlig.com:8080/Jorge123/Jorge123/379
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPΘRT TV 4" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV4.png" group-title="Portugal ✠",SPΘRT TV 4
+http://cbrlig.com:8080/Jorge123/Jorge123/380
+#EXTINF:-1 tvg-id="" tvg-name="SPΘRT TV 4-265 HD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV%204-low.png" group-title="Portugal ✠",SPΘRT TV 4-265 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/193694
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPΘRT TV 4 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV4HD.png" group-title="Portugal ✠",SPΘRT TV 4 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/381
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPΘRT TV 5" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV5.png" group-title="Portugal ✠",SPΘRT TV 5
+http://cbrlig.com:8080/Jorge123/Jorge123/382
+#EXTINF:-1 tvg-id="" tvg-name="SPΘRT TV 5-265 HD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV%205-low.png" group-title="Portugal ✠",SPΘRT TV 5-265 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/193695
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPΘRT TV 5 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV5HD.png" group-title="Portugal ✠",SPΘRT TV 5 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/383
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="SPΘRT TV  6" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20portugal%20novos/Sporttv6%20White.png" group-title="Portugal ✠",SPΘRT TV  6
+http://cbrlig.com:8080/Jorge123/Jorge123/170118
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPΘRT TV 6 HD" tvg-logo="http://logos.giize.com/logos/logos%20rui/logos%20portugal%20novos/Sporttv6%20White.png" group-title="Portugal ✠",SPΘRT TV 6 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/104362
+#EXTINF:-1 tvg-id="" tvg-name="W-SPΘRT HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/W-Sport.png" group-title="Portugal ✠",W-SPΘRT HD
+http://cbrlig.com:8080/Jorge123/Jorge123/185891
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ЄLЄVЄN SPΘRTS 1-LOW" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/elevensport1-low.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 1-LOW
+http://cbrlig.com:8080/Jorge123/Jorge123/384
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ЄLЄVЄN SPΘRTS 1" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/ELEVENSPORTS1.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 1
+http://cbrlig.com:8080/Jorge123/Jorge123/385
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ЄLЄVЄN SPΘRTS 1-265 HD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/elevensport1-low.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 1-265 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/51085
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ЄLЄVЄN SPΘRTS 1 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/ELEVENSPORTS1.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 1 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/386
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ЄLЄVЄN SPΘRTS 1-265 FHD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/elevensport1-low.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 1-265 FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/193858
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ЄLЄVЄN SPΘRTS 1 FHD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/ELEVENSPORTS1.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 1 FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/130905
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ЄLЄVЄN SPΘRTS 2-LOW" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/elevensport2-low.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 2-LOW
+http://cbrlig.com:8080/Jorge123/Jorge123/387
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ЄLЄVЄN SPΘRTS  2" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/ELEVENSPORTS2.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS  2
+http://cbrlig.com:8080/Jorge123/Jorge123/388
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ЄLЄVЄN SPΘRTS 2-265 HD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/elevensport2-low.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 2-265 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/82605
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ЄLЄVЄN SPΘRTS 2 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/ELEVENSPORTS2.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 2 HD
+http://cbrlig.com:8080/Jorge123/Jorge123/389
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ЄLЄVЄN SPΘRTS 2-265 FHD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/elevensport2-low.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 2-265 FHD
+http://cbrlig.com:8080/Jorge123/Jorge123/193698
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ЄLЄVЄN SPΘRTS 3-LOW" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/elevensport3-low.png" group-title="Portugal ✠",ЄLЄVЄN SPΘRTS 3-LOW
+http://cbrlig.com:8080/Jo
