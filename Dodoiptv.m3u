@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: ***********PORTUGAL**************" tvg-logo="http://picon-platinium.ddns.net/paises_flags/Portugal.png" group-title="PORTUGAL",PT: ***********PORTUGAL**************
-http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/2
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 SD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP%201.png" group-title="PORTUGAL",PT: RTP 1 SD
 http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/3
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP%201%20HD.png" group-title="PORTUGAL",PT: RTP 1 HD
